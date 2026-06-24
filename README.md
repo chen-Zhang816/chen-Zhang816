@@ -5,7 +5,7 @@
 
 ## ⭐ Featured projects
 
-The work I want to show from my CV — both are interactive. **Click the image to open the live demo.**
+The work I want to show from my CV, both are interactive. **Click the image to open the live demo.**
 
 ### MuseGate · Enterprise AIGC commerce platform for fashion
 
@@ -25,7 +25,7 @@ A semantic retrieval system for digital health storytelling. I designed a two-la
 
 ---
 
-##  How I work
+## 💻 How I work
 
 **Problem-first**: start from real user pain and evidence, then decide what (not) to build.
 
@@ -37,4 +37,4 @@ A semantic retrieval system for digital health storytelling. I designed a two-la
 
 ---
 
-<sub>Thanks for stopping by — feel free to reach out at chen972022@163.com.</sub>
+<sub>Thanks for stopping by, feel free to reach out at chen972022@163.com.</sub>
