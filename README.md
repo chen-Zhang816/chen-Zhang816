@@ -11,7 +11,7 @@ The work I want to show from my CV, both are interactive. **Click the image to o
 
 [![MuseGate cover](assets/musegate-cover.png)](https://chen-zhang816.github.io/musegate-portfolio/)
 
-> **Product Lead · 2026.04–2026.06 · [▶ Open live portfolio](https://chen-zhang816.github.io/musegate-portfolio/)**
+> **Product Manager · 2026.04–2026.06 · [▶ Open live portfolio](https://chen-zhang816.github.io/musegate-portfolio/)**
 
 A ToB AIGC content-production tool for fashion e-commerce merchants, lifting both asset throughput and aesthetic quality. I owned the product end-to-end: re-architected the platform from *tool-driven* to *SKU-driven*, designed a multi-model routing strategy (Nano Banana / GPT-image / aesthetic models), built the prompt systems, and rebuilt the visual identity into a calm, confident dark theme. The linked page is the full design portfolio — information architecture, user journeys, and the 2.0 redesign.
 
