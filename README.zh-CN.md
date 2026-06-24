@@ -11,7 +11,7 @@
 
 [![MuseGate 封面](assets/musegate-cover.png)](https://chen-zhang816.github.io/musegate-portfolio/)
 
-> **产品负责人 · 2026.04–2026.06 · [▶ 打开在线作品集](https://chen-zhang816.github.io/musegate-portfolio/)**
+> **AI产品经理 · 2026.04–2026.06 · [▶ 打开在线作品集](https://chen-zhang816.github.io/musegate-portfolio/)**
 
 面向服饰类电商商家的 ToB AIGC 内容生产工具，提升电商素材产能与美学竞争力。我独立负责原产品升级改版的全流程：将平台从「工具驱动」重构为「SKU 驱动」，设计多模型路由策略（Nano Banana / GPT-image / 自研模型），搭建功能的Prompt体系，并将界面视觉重塑。
 
